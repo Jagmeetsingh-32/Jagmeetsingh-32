@@ -1,46 +1,46 @@
 # 👋 Hi, I'm Jagmeet Singh
 
-💧 **ML Researcher | Hydrology Enthusiast | Full-Stack Developer**
+💻 **Full-Stack Developer | Web Designer | Data Enthusiast**
 
 Welcome to my GitHub profile!  
-I’m passionate about applying **Machine Learning** and **Remote Sensing** to address real-world **hydrology and climate** challenges — and also enjoy building **data-driven web applications** using modern Python and JavaScript frameworks.
+I enjoy building responsive and interactive web applications using **React**, **React Native**, **Node.js**, and **Tailwind CSS** — and applying **Machine Learning** for real-world applications like climate and hydrological data visualization.
 
 ---
 
 ## 🌍 Featured Project: [GWSA – Groundwater Storage Anomaly Prediction App](https://huggingface.co/spaces/your-username/GWSA)
 
-**GWSA (Groundwater Storage Anomaly)** is a machine learning application that predicts **groundwater storage anomalies** over the **Ganga** and **Indus basins**.
+**GWSA** is my **final-year machine learning project**, designed to predict **Groundwater Storage Anomaly (GWSA)** over the **Ganga** and **Indus basins** using satellite and reanalysis data.
 
 🔹 **Predicts:** GWSA using trained ML models  
 🔹 **Visualizes:**  
-  Precipitation · Snow Water Equivalent (SWE) · Runoff · Soil Moisture · Soil Temperature · Evapotranspiration (ET) · NDVI  
-🔹 **Built with:** Python, Scikit-learn, React, Tailwind CSS  
+  Precipitation · SWE · Runoff · Soil Moisture · Soil Temperature · Evapotranspiration (ET) · NDVI  
+🔹 **Built with:** Python, React, Tailwind CSS  
 🔹 **Deployed on:** Hugging Face Spaces
 
-> 💡 Turning satellite-based datasets (GRACE, GLDAS, MODIS) into actionable groundwater insights.
+> 🌦️ A blend of ML and climate visualization to understand groundwater dynamics.
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 Tech Stack
 
 | Category | Tools & Frameworks |
 |-----------|--------------------|
-| **Programming** | Python, JavaScript, C++ |
-| **ML & Data Science** | Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, XGBoost |
-| **Web Development** | Django REST Framework, Flask, React, Tailwind CSS, FastAPI |
-| **Remote Sensing / GIS** | GRACE, GLDAS, MODIS, xarray, rasterio |
-| **Databases** | SQLite, PostgreSQL, MongoDB |
+| **Frontend** | React, React Native, Tailwind CSS, HTML, CSS |
+| **Backend** | Node.js, Express.js, Django REST Framework, Flask |
+| **Machine Learning** | Scikit-learn, Pandas, NumPy, Matplotlib |
+| **Databases** | MongoDB, SQLite, PostgreSQL |
 | **Deployment** | Hugging Face Spaces, GitHub Pages |
+| **Others** | Vite, REST APIs, Git, VS Code |
 
 ---
 
 ## 🧩 My Projects
 
-🔹 [**GWSA-Prediction-using-ML**](https://github.com/Jagmeetsingh-32/GWSA-Prediction-using-ML) — ML model for predicting groundwater storage anomaly  
-🔹 [**Python-Backend**](https://github.com/Jagmeetsingh-32/Python-Backend) — Backend APIs with Flask and Python  
-🔹 [**Flask_Files**](https://github.com/Jagmeetsingh-32/Flask_Files) — Flask-based application examples  
+🔹 [**GWSA-Prediction-using-ML**](https://github.com/Jagmeetsingh-32/GWSA-Prediction-using-ML) — Final year ML project predicting groundwater storage anomaly  
+🔹 [**Python-Backend**](https://github.com/Jagmeetsingh-32/Python-Backend) — Flask + Python backend APIs  
+🔹 [**Flask_Files**](https://github.com/Jagmeetsingh-32/Flask_Files) — Flask-based applications and examples  
 🔹 [**Todo_App**](https://github.com/Jagmeetsingh-32/Todo_App) — Simple responsive To-Do app using HTML/CSS/JS  
-🔹 [**Data-Structures**](https://github.com/Jagmeetsingh-32/Data-Structures) — C++ implementations of common algorithms  
+🔹 [**Data-Structures**](https://github.com/Jagmeetsingh-32/Data-Structures) — C++ implementations of algorithms and DSA  
 🔹 [**Spaceapps-Challenge**](https://github.com/Jagmeetsingh-32/Spaceapps-Challenge) — NASA Space Apps Hackathon project  
 
 ---
@@ -57,11 +57,10 @@ I’m passionate about applying **Machine Learning** and **Remote Sensing** to a
 
 ## 🧭 Interests
 
-- 🌊 Groundwater & Hydrology Modeling  
-- 🛰️ Remote Sensing Data Analysis  
-- 🤖 Machine Learning for Earth Observation  
-- 🧱 Full-stack App Development  
-- 🧩 Climate Data Visualization  
+- ⚙️ Machine Learning  
+- 🎨 Climate Data Visualization  
+- 🌐 Full-Stack Web Development  
+- 📱 Cross-Platform App Development (React Native)
 
 ---
 
@@ -76,4 +75,4 @@ I’m passionate about applying **Machine Learning** and **Remote Sensing** to a
 
 ---
 
-⭐️ _“Exploring groundwater dynamics through data, code, and satellite insight.”_
+⭐️ _“Building scalable apps and visualizing data that tells a story.”_
