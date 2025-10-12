@@ -1,80 +1,79 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">Hydroinformatics Researcher | ML Engineer | Water Resources Specialist</h3>
+# 👋 Hi, I'm Jagmeet Singh
+
+💧 **ML Researcher | Hydrology Enthusiast | Full-Stack Developer**
+
+Welcome to my GitHub profile!  
+I’m passionate about applying **Machine Learning** and **Remote Sensing** to address real-world **hydrology and climate** challenges — and also enjoy building **data-driven web applications** using modern Python and JavaScript frameworks.
+
+---
+
+## 🌍 Featured Project: [GWSA – Groundwater Storage Anomaly Prediction App](https://huggingface.co/spaces/your-username/GWSA)
+
+**GWSA (Groundwater Storage Anomaly)** is a machine learning application that predicts **groundwater storage anomalies** over the **Ganga** and **Indus basins**.
+
+🔹 **Predicts:** GWSA using trained ML models  
+🔹 **Visualizes:**  
+  Precipitation · Snow Water Equivalent (SWE) · Runoff · Soil Moisture · Soil Temperature · Evapotranspiration (ET) · NDVI  
+🔹 **Built with:** Python, Scikit-learn, React, Tailwind CSS  
+🔹 **Deployed on:** Hugging Face Spaces
+
+> 💡 Turning satellite-based datasets (GRACE, GLDAS, MODIS) into actionable groundwater insights.
+
+---
+
+## 🧠 Technical Skills
+
+| Category | Tools & Frameworks |
+|-----------|--------------------|
+| **Programming** | Python, JavaScript, C++ |
+| **ML & Data Science** | Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, XGBoost |
+| **Web Development** | Django REST Framework, Flask, React, Tailwind CSS, FastAPI |
+| **Remote Sensing / GIS** | GRACE, GLDAS, MODIS, xarray, rasterio |
+| **Databases** | SQLite, PostgreSQL, MongoDB |
+| **Deployment** | Hugging Face Spaces, GitHub Pages |
+
+---
+
+## 🧩 My Projects
+
+🔹 [**GWSA-Prediction-using-ML**](https://github.com/Jagmeetsingh-32/GWSA-Prediction-using-ML) — ML model for predicting groundwater storage anomaly  
+🔹 [**Python-Backend**](https://github.com/Jagmeetsingh-32/Python-Backend) — Backend APIs with Flask and Python  
+🔹 [**Flask_Files**](https://github.com/Jagmeetsingh-32/Flask_Files) — Flask-based application examples  
+🔹 [**Todo_App**](https://github.com/Jagmeetsingh-32/Todo_App) — Simple responsive To-Do app using HTML/CSS/JS  
+🔹 [**Data-Structures**](https://github.com/Jagmeetsingh-32/Data-Structures) — C++ implementations of common algorithms  
+🔹 [**Spaceapps-Challenge**](https://github.com/Jagmeetsingh-32/Spaceapps-Challenge) — NASA Space Apps Hackathon project  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/yourusername?tab=repositories">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/yourusername?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub followers"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jagmeetsingh-32&show_icons=true&theme=tokyonight" alt="Jagmeet's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagmeetsingh-32&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🌊 About Me
+## 🧭 Interests
 
-I'm a passionate **Hydroinformatics Researcher** and **Machine Learning Engineer** specializing in applying AI/ML techniques to solve critical water resources challenges. My work focuses on groundwater monitoring, hydrological modeling, and climate resilience.
-
-**🔭 Currently working on:**
-- Groundwater Storage Anomaly (GWSA) prediction using ML
-- Multi-parameter hydrological analysis for Ganga and Indus basins
-- Real-time water resources monitoring systems
-
-**🌱 Currently learning:**
-- Advanced time series forecasting with Transformers
-- Satellite data fusion techniques
-- Large-scale geospatial analysis
-
-**👯 Looking to collaborate on:**
-- Climate change impact studies
-- Open-source hydrology projects
-- AI for environmental sustainability
-
-**💬 Ask me about:**
-- Machine Learning in Hydrology
-- GRACE satellite data analysis
-- Python for geospatial applications
-- Model deployment and MLOps
-
-**📫 How to reach me:**
-- Email: your.email@domain.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 🌊 Groundwater & Hydrology Modeling  
+- 🛰️ Remote Sensing Data Analysis  
+- 🤖 Machine Learning for Earth Observation  
+- 🧱 Full-stack App Development  
+- 🧩 Climate Data Visualization  
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Connect With Me
 
-### 🌍 GWSA Prediction Application
-**Machine learning-based groundwater monitoring for Ganga and Indus basins**
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Hugging_Face_Space-ff69b4)](https://huggingface.co/spaces/yourusername/gwsa-prediction)
-[![GitHub](https://img.shields.io/badge/📁_Code-GitHub-black)](https://github.com/yourusername/gwsa-prediction)
-
-- **ML-powered** groundwater storage anomaly prediction
-- **Multi-parameter analysis**: Precipitation, SWE, runoff, soil moisture, soil temperature, evapotranspiration, NDVI
-- **Real-time monitoring** and forecasting capabilities
-
-### 🔬 Other Notable Projects
-
-#### [**Hydrological Data Fusion**](https://github.com/yourusername/hydrology-data-fusion)
-Multi-source satellite data integration for improved water resources assessment
-
-#### [**Drought Early Warning**](https://github.com/yourusername/drought-prediction)
-AI-based drought prediction system using meteorological and remote sensing data
-
-#### [**Water Quality ML**](https://github.com/yourusername/water-quality-ml)
-Machine learning models for water quality parameter prediction
+<p align="left">
+  <a href="https://huggingface.co/your-username"><img src="https://img.shields.io/badge/HuggingFace-yellow?style=flat-square&logo=huggingface&logoColor=black" /></a>
+  <a href="https://github.com/Jagmeetsingh-32"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
-
-### **Programming & Data Science**
-```python
-# My core tech stack
-languages = ["Python", "R", "SQL", "JavaScript"]
-ml_frameworks = ["Scikit-learn", "TensorFlow", "PyTorch", "XGBoost"]
-data_tools = ["Pandas", "NumPy", "Dask", "GeoPandas"]
-visualization = ["Matplotlib", "Plotly", "Seaborn", "Folium"]
+⭐️ _“Exploring groundwater dynamics through data, code, and satellite insight.”_
